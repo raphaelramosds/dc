@@ -1,9 +1,11 @@
 <h1 align="center">DCA3501 – Ciência de Dados</h1>
 
 
-> *"Os números têm uma história importante para contar.  
-> Cabe a você formatar essa história de forma clara e convincente."*  
-> — *Stephen Few*
+<p align="center">
+  <em>"Os números têm uma história importante para contar.<br>
+  Cabe a você apresentar essa história de forma clara e convincente."</em><br>
+  — <strong>Stephen Few</strong>
+</p>
 
 ---
 
