@@ -99,6 +99,8 @@ DCA3501-Ciencia-de-Dados/
 
 ## 📚 Recursos de Apoio
 
+- [Livro1](https://jakevdp.github.io/PythonDataScienceHandbook/) - Python Data Science Handbook.
+- [Livro2](https://wesmckinney.com/book/) - Python for Data Analysis
 - [Kaggle – Curso de Python](https://www.kaggle.com/learn/python) – Curso introdutório com exercícios práticos.  
 - [AI Python for Beginners – Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) – Curso curto sobre Python voltado para IA.  
 - [Python para Data Science](https://github.com/codenation-dev/Data-Science-Online) – Conteúdo aberto voltado para ciência de dados em português.
