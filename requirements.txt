@@ -1,1 +1,1 @@
-# Silence is golden
+numpy == 2.2.*
