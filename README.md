@@ -33,7 +33,14 @@ Apresentação do Pacote Numpy para computação cietífica em Python.
 
 ### Aula 03 - Pacote de Gráficos Matplotlib
 
+Interfaces para traçar Gráficos em Python, entre elas o pylab e o pyplot
+
 ### Aula 04 - Pacote Pandas - Parte I
+
+- Os objetos Index, Series e DataFrame
+- Operações aritméticas em um objeto Series
+- Concatenação de Series e DataFrames
+- Métodos para carregar/ler/importar dados tipo DataFrame
 
 ### Aula 05 - Pacote Pandas - Parte II
 
