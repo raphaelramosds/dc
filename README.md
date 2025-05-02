@@ -6,7 +6,7 @@ A disciplina **DCA3501 – Ciência de Dados** apresenta os fundamentos essencia
 
 ## Índice
 
-### Aula 00 - Apresentação
+### [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](./Aulas/Aula00/aula00.pdf) Aula 00 - Apresentação
 
 Slides contendo uma introdução da disciplina
 
@@ -14,7 +14,7 @@ Slides contendo uma introdução da disciplina
 - O que é Ciência de Dados? Por que estudar?
 - Exemplos de aplicações em engenharia e outras áreas de atuação
 
-### Aula 01 - Introdução à Linguagem Python
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula01/notebook_aula01.ipynb) Aula 01 - Introdução à Linguagem Python
 
 Apresentação das funcionalidades básicas da linguagem Python
 
@@ -27,42 +27,42 @@ Apresentação das funcionalidades básicas da linguagem Python
 - Funções e Classes
 - Importação de pacotes
 
-### Aula 02 - Computação Científica com o Pacote Numpy Python
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula02/notebook_aula02.ipynb) Aula 02 - Computação Científica com o Pacote Numpy Python
 
 Apresentação do Pacote Numpy para computação cietífica em Python.
 
-### Aula 03 - Pacote de Gráficos Matplotlib
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula03/notebook_aula03.ipynb) Aula 03 - Pacote de Gráficos Matplotlib
 
 Interfaces para traçar Gráficos em Python, entre elas o pylab e o pyplot
 
-### Aula 04 - Pacote Pandas - Parte I
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula04/notebook_aula04.ipynb) Aula 04 - Pacote Pandas - Parte I
 
 - Os objetos Index, Series e DataFrame
 - Operações aritméticas em um objeto Series
 - Concatenação de Series e DataFrames
 - Métodos para carregar/ler/importar dados tipo DataFrame
 
-### Aula 05 - Pacote Pandas - Parte II
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula05/notebook_aula05.ipynb) Aula 05 - Pacote Pandas - Parte II
 
 - Revisão de uso de aluguns funcionalidades: importação de arquivo, gráficos.
 - Exemplos de bases de dados.
 
-### Aula 06 - Pacote Pandas - Parte III
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula06/notebook_aula06.ipynb) Aula 06 - Pacote Pandas - Parte III
 
 - Conceitos de tratamento avançado de dados: join, merge, groupby, concatenação.
 - Exemplo de aplicação.
 
-### Aula 07 - Análise Exploratória de Dados Socioeconômicos dos Bairros de Natal/RN
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula07/notebook_aula07.ipynb) Aula 07 - Análise Exploratória de Dados Socioeconômicos dos Bairros de Natal/RN
 
 Neste estudo, são analisados dados socioeconômicos dos 36 bairros da cidade de Natal/RN, organizados em quatro regiões administrativas: Norte, Sul, Leste e Oeste.
 
-### Aula 08 - Fundamentos de Estatística
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula08/notebook_aula08.ipynb) Aula 08 - Fundamentos de Estatística
 
 - Conceitos de estatística (distribuição normal, esperança, covariância, correlação, etc.), medidas (média, variância, desvio padrão, etc.) e suas propriedades.
 - Uso de funções estatísticas nos pacotes NumPy, Pandas e SciPy.
 - Exemplos de aplicação.
 
-### Aula 09 - Modelos Estatísticos
+### [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](./Aulas/Aula09/notebook_aula09.ipynb) Aula 09 - Modelos Estatísticos
 
 - Apresentar como usar as distribuições estatísticas no pacote SciPy-Python e obter suas medidas estatísticas.
 - Exemplos de aplicação.
